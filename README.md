@@ -8,15 +8,14 @@ API using NodeJs and Fastify.
 ## Running
 
 ```shell
-./mvnw spring-boot:run
+npm start
 ```
 
 ## Endpoints
 
-* http://localhost:8080/actuator/health
-* http://localhost:8080/v1/pets
-* http://localhost:8080/v3/api-docs
-* http://localhost:8080/swagger-ui/index.html
+* http://localhost:3000/health
+* http://localhost:3000/v1/pets
+* 
 
 
 ## Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
