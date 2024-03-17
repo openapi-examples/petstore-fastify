@@ -1,24 +1,4 @@
-# petstore-fastify
-
-
-This is a reference implementation of the
-[Petstore](https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v3.0/petstore.yaml)
-API using NodeJs and Fastify.
-
-## Running
-
-```shell
-npm start
-```
-
-## Endpoints
-
-* http://localhost:3000/health
-* http://localhost:3000/v1/pets
-* 
-
-
-## Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
+# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 This project was bootstrapped with Fastify-CLI.
 
 ## Available Scripts
